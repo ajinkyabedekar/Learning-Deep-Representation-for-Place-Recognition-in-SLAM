@@ -26,10 +26,14 @@ The repository consists of the following:
 
 5. Final Project Presentation
 
-The result obtained:
+The result obtained of Visual Odometry:
 
-![]()
+![https://github.com/ajinkyabedekar/Learning-Deep-Representation-for-Place-Recognition-in-SLAM/blob/master/Source%20Code/map.png](https://github.com/ajinkyabedekar/Learning-Deep-Representation-for-Place-Recognition-in-SLAM/blob/master/Source%20Code/map.png)
+
+The confusion matrix and ground truth mapping obtained for Place Recognition:
+
+![https://github.com/ajinkyabedekar/Learning-Deep-Representation-for-Place-Recognition-in-SLAM/blob/master/Source%20Code/KITTI.png](https://github.com/ajinkyabedekar/Learning-Deep-Representation-for-Place-Recognition-in-SLAM/blob/master/Source%20Code/KITTI.png)
 
 Download and extract data from following link to Source Code folder:
 
-    https://drive.google.com/open?id=1eh1G50e8jc01GX6PSG5dDomTIdtBMEzq
+    https://drive.google.com/open?id=16TNTIDxGlcTE6GsngYfCUYTqNDj8IwUs
